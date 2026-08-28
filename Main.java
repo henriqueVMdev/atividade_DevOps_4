@@ -8,7 +8,7 @@ public class Main {
 
         System.out.println("\n Livro 1");
         livro1.exibirInformacoes();
-        System.out.ptintln("Valor total em estoque R$: "+ livro1.calcularValorEstoque());
+        System.out.println("Valor total em estoque R$: "+ livro1.calcularValorEstoque());
 
         System.out.println("\n Livro 2");
         livro2.exibirInformacoes();
